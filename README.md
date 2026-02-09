@@ -1,8 +1,9 @@
-I'm Fedor, a software engineer based in Saint Petersburg
+# Hi, I'm Fedor
+Software engineer based in Saint Petersburg.
+I build web applications of any scale and offer architectural guidance when needed.  
+Feel free to reach out – I’m open to suggestions!
 
-I can develop a web application of any complexity, and I can also provide architectural advices. I am open to suggestions!
-
-My main tech stack is TypeScript and React. To evaluate my current skills, you can look at this [repository](https://github.com/atlz253/1880835-six-cities-6).
+My main tech stack is TypeScript and React. To evaluate my current skills, you can check out my recent work [repository](https://github.com/atlz253/1880835-six-cities-6).
 
 **Fun facts**:
 * I have a home server
